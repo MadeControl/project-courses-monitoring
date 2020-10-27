@@ -1,1 +1,1 @@
-# project-courses-monitoring
+# Courses monitoring
