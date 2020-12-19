@@ -43,11 +43,11 @@
 
 
 ## Стек технологій:
-+ Java 11 - тому що це одна з найкращих мов для розробки Back-End
-+ Spring Framework 5 - тому ще це найкращий Framework для розробки Back-End на мові Java 
-+ PostgreSQL 13 - тому що це одна з найпопулярніших СУБД з можливостями використання ООП функціонала
-+ Hibernate - тому ще це найкраща ORM на мові Java
-+ Angular 9 - тому що це один з найкращих Framework для розробки Front-End на мові TypeScript, до того ж це Single Page Application
++ **Java 11**   - тому що це одна з найкращих мов для розробки Back-End
++ **Spring Framework 5**    - тому ще це найкращий Framework для розробки Back-End на мові Java 
++ **PostgreSQL 13**    - тому що це одна з найпопулярніших СУБД з можливостями використання ООП функціонала
++ **Hibernate**    - тому ще це найкраща ORM на мові Java
++ **Angular 9**    - тому що це один з найкращих Framework для розробки Front-End на мові TypeScript, до того ж це Single Page Application
 
 
 ## Timeline:
