@@ -50,5 +50,9 @@
 + **Angular 9**    - тому що це один з найкращих Framework для розробки Front-End на мові TypeScript, до того ж це Single Page Application
 
 
+## Блок-схема:
+![alt text](https://github.com/MadeControl/project-courses-monitoring/blob/main/Timeline.jpg)
+
+
 ## Timeline:
 ![alt text](https://github.com/MadeControl/project-courses-monitoring/blob/main/Timeline.jpg)
